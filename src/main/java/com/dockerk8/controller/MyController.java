@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping("/test-docker")
 	public String getData(){
-		return "Docker and kubernetes Assignment";
+		return "Docker and jenkins Assignment";
 	}
 
 }
